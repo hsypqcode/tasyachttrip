@@ -137,7 +137,7 @@ useHead({
 })
 </script>
 
-<style lang="css" scoped>
+<style lang="scss" scoped>
 .product-hero {
   position: relative;
   height: 50vh;

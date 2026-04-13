@@ -109,7 +109,7 @@ useHead({
 })
 </script>
 
-<style lang="css" scoped>
+<style lang="scss" scoped>
 .contact-layout {
   display: grid;
   grid-template-columns: 1fr;

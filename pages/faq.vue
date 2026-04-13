@@ -40,7 +40,7 @@ useHead({
 })
 </script>
 
-<style lang="css" scoped>
+<style lang="scss" scoped>
 .faq-list {
   max-width: 760px;
   margin: 0 auto;

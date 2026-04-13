@@ -99,7 +99,7 @@ export default defineNuxtConfig({
     css: {
       preprocessorOptions: {
         scss: {
-          silenceDeprecations: 'legacy-jsx,import',
+          additionalData: '@import "@/assets/scss/_variables.scss"; @import "@/assets/scss/_mixins.scss";',
         },
       },
     },

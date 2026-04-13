@@ -94,7 +94,7 @@ useHead({
 })
 </script>
 
-<style lang="css" scoped>
+<style lang="scss" scoped>
 .hero {
   position: relative;
   min-height: 80vh;

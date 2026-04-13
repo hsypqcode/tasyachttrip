@@ -71,7 +71,7 @@ function handleScroll() {
 }
 </script>
 
-<style lang="css" scoped>
+<style lang="scss" scoped>
 .app-header {
   position: fixed;
   top: 0;

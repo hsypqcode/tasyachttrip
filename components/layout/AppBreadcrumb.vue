@@ -25,7 +25,7 @@ defineProps<{
 const localePath = useLocalePath()
 </script>
 
-<style lang="css" scoped>
+<style lang="scss" scoped>
 .breadcrumb {
   padding: 0.75rem 0;
 }

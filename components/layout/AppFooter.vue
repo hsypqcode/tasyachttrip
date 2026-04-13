@@ -66,7 +66,7 @@
 const localePath = useLocalePath()
 </script>
 
-<style lang="css" scoped>
+<style lang="scss" scoped>
 .app-footer {
   background: $color-gray-900;
   color: $color-gray-300;

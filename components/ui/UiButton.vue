@@ -28,7 +28,7 @@ const linkProps = computed(() => {
 })
 </script>
 
-<style lang="css" scoped>
+<style lang="scss" scoped>
 .ui-button {
   @include button-base;
 

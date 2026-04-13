@@ -37,7 +37,7 @@ useHead({
 })
 </script>
 
-<style lang="css" scoped>
+<style lang="scss" scoped>
 .news-list {
   max-width: 800px;
   margin: 0 auto;

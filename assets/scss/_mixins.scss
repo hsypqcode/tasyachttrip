@@ -54,3 +54,44 @@
   height: 100%;
   object-fit: cover;
 }
+
+// Responsive Breakpoints
+@mixin sm {
+  @media (min-width: $breakpoint-sm) {
+    @content;
+  }
+}
+
+@mixin md {
+  @media (min-width: $breakpoint-md) {
+    @content;
+  }
+}
+
+@mixin lg {
+  @media (min-width: $breakpoint-lg) {
+    @content;
+  }
+}
+
+@mixin xl {
+  @media (min-width: $breakpoint-xl) {
+    @content;
+  }
+}
+
+@mixin xxl {
+  @media (min-width: $breakpoint-2xl) {
+    @content;
+  }
+}
+
+@mixin section-padding {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+
+  @include md {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+}

@@ -67,7 +67,7 @@ useHead({
 })
 </script>
 
-<style lang="css" scoped>
+<style lang="scss" scoped>
 .article {
   max-width: 760px;
   margin: 0 auto;

@@ -70,7 +70,7 @@ useHead({
 })
 </script>
 
-<style lang="css" scoped>
+<style lang="scss" scoped>
 .products-grid {
   display: grid;
   grid-template-columns: 1fr;

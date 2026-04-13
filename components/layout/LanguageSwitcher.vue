@@ -52,7 +52,7 @@ function handleClickOutside(e: MouseEvent) {
 }
 </script>
 
-<style lang="css" scoped>
+<style lang="scss" scoped>
 .language-switcher {
   position: relative;
 }
