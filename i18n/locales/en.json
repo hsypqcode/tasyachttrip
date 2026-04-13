@@ -1,0 +1,112 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Tours",
+    "about": "About Us",
+    "gallery": "Gallery",
+    "news": "News",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "home": {
+    "heroTitle": "Explore Hobart's Beauty",
+    "heroSubtitle": "Enjoy fishing, diving & BBQ with stunning views while cruising Hobart's harbour",
+    "bookNow": "Book Now",
+    "learnMore": "Learn More",
+    "featuredTours": "Featured Tours",
+    "contactUs": "Contact Us"
+  },
+  "booking": {
+    "cta": "Book Now",
+    "placeholder": "Booking integration coming soon",
+    "placeholderNote": "Contact us via WhatsApp, phone or email to make a reservation"
+  },
+  "products": {
+    "title": "Our Tours",
+    "sightseeingTitle": "3-Hour Sightseeing Fishing Cruise",
+    "sightseeingDesc": "Join our 3-hour sightseeing fishing cruise to experience Hobart's beauty from the water. Enjoy fresh fruit and music in our comfortable cabin, or head to the deck to fish and observe wildlife. We provide fishing guidance - beginners welcome!",
+    "privateTitle": "Private Charters Booking",
+    "privateDesc": "Whether you want to gather friends and family for a relaxed and unforgettable time, or you're a fishing enthusiast looking to troll for bluefin tuna or challenge Tasmania's deep-sea champion stripey trumpeter, we can meet your needs.",
+    "halfDayTitle": "Half-Day Hook, Dive, and Grill",
+    "halfDayDesc": "Join our half-day fishing, diving, and BBQ adventure. Cruise past Hobart landmarks, observe wildlife, fish for reef species or dive for lobster and abalone (license required).",
+    "duration": "Duration",
+    "price": "Price",
+    "guests": "Max Guests",
+    "includes": "What's Included",
+    "highlights": "Highlights",
+    "itinerary": "Itinerary",
+    "perPerson": "per person",
+    "hours": "hours",
+    "bookNow": "Book This Tour"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "all": "All",
+    "vessel": "Vessel",
+    "fishing": "Fishing",
+    "diving": "Diving",
+    "nature": "Nature",
+    "happyMoments": "Happy Moments",
+    "viewMore": "View More"
+  },
+  "news": {
+    "title": "News",
+    "readMore": "Read More",
+    "backToList": "Back to News"
+  },
+  "about": {
+    "title": "About Us",
+    "ourStory": "Our Story",
+    "ourTeam": "Our Team",
+    "whyChooseUs": "Why Choose Us"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send Message",
+    "successMessage": "Thank you! We'll get back to you soon.",
+    "errorMessage": "Something went wrong. Please try again."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions"
+  },
+  "footer": {
+    "tagline": "Catch the Thrill, Dive the Depths – Adventure Awaits on the Kylin!",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "followUs": "Follow Us",
+    "address": "Margate Marina, 40 Marina Dr, Barretta TAS 7054",
+    "phone": "+61 498 855 910 Arnold",
+    "email": "support [at] tasyachttrip.com.au",
+    "whatsapp": "WhatsApp: +61 498 855 910 Arnold",
+    "copyright": "© 2026 Diver's Fishing Charters Hobart. All rights reserved."
+  },
+  "seo": {
+    "defaultTitle": "Diver's Fishing Charters Hobart | Professional Boat Tours Tasmania",
+    "defaultDescription": "Experience Hobart's stunning coastline with our professional fishing charters and boat tours. Enjoy fishing, diving, and BBQ cruises on our comfortable vessel. Licensed and insured operator in Tasmania.",
+    "homeDescription": "Explore Hobart's beauty - enjoy fishing, diving and BBQ while taking in stunning views. Our comfortable vessel offers unforgettable experiences for all skill levels.",
+    "productsDescription": "Choose from our range of fishing charters and boat tours in Hobart, Tasmania. 3-hour cruises, half-day adventures, and private charter options available.",
+    "aboutDescription": "Learn about Diver's Fishing Charters Hobart - family-owned and operated since 2015. Licensed and insured boat tour operator in Tasmania.",
+    "galleryDescription": "Browse photos from our fishing charters and boat tours around Hobart, Tasmania. See our vessel, wildlife encounters, and happy guests.",
+    "newsDescription": "Latest news and updates from Diver's Fishing Charters Hobart. Fishing tips, tour updates, and Tasmanian travel guides.",
+    "contactDescription": "Get in touch with Diver's Fishing Charters Hobart. Contact us for bookings, enquiries, and special requests.",
+    "faqDescription": "Find answers to frequently asked questions about our fishing charters and boat tours in Hobart, Tasmania."
+  },
+  "jsonLd": {
+    "travelAgency": {
+      "name": "Diver's Fishing Charters Hobart",
+      "description": "Professional fishing charters and boat tours in Tasmania"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "required": "Required",
+    "submit": "Submit",
+    "cancel": "Cancel"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "nav": {
+    "home": "首頁",
+    "products": "出海行程",
+    "about": "關於我們",
+    "gallery": "相冊",
+    "news": "新聞動態",
+    "faq": "常見問題",
+    "contact": "聯絡我們"
+  },
+  "home": {
+    "heroTitle": "探索霍巴特的風采",
+    "heroSubtitle": "在欣賞美景的同時享受釣魚、潛水和燒烤的樂趣",
+    "bookNow": "立即預訂",
+    "learnMore": "了解更多",
+    "featuredTours": "熱門行程",
+    "contactUs": "聯絡我們"
+  },
+  "booking": {
+    "cta": "立即預訂",
+    "placeholder": "預訂系統正在接入中",
+    "placeholderNote": "可通過 WhatsApp、電話或郵件聯絡我們手動下單"
+  },
+  "products": {
+    "title": "我們的行程",
+    "sightseeingTitle": "3小時觀光海釣巡遊",
+    "sightseeingDesc": "加入我們的3小時觀光釣魚巡航，從水上體驗霍巴特的美麗。在我們舒適的船艙內享受新鮮水果和音樂，或者走到甲板上釣魚和觀察野生動物。我們可提供海釣指導哦，新手也可以很輕鬆釣到魚！",
+    "privateTitle": "私人包船預訂",
+    "privateDesc": "無論您是想約上三五好友，帶著家人包船出海，享受輕鬆又難忘的時光；還是釣魚愛好者，想遠海拖釣藍鰭金槍魚或挑戰塔州深海魚王 stripey trumpeter；亦或是潛水店或俱樂部，計劃組團來塔斯馬尼亞潛水，抓龍蝦、鮑魚，探索冷水珊瑚和巨型海藻森林，我們都能滿足您的需求。",
+    "halfDayTitle": "半日釣魚、潛水和燒烤",
+    "halfDayDesc": "加入我們的半日釣魚、潛水和燒烤冒險。巡遊霍巴特的地標，觀察野生動物，釣礁石魚類或潛水捕捉龍蝦和鮑魚（需要執照）。在船上享用新鮮水果、生蠔、三文魚刺身、和牛等美食，還有機會烹飪自己的漁獲，甚至掌舵船隻——在熟練的船長和甲板手的指導下，享受難忘的體驗。",
+    "duration": "時長",
+    "price": "價格",
+    "guests": "最多人數",
+    "includes": "費用包含",
+    "highlights": "行程亮點",
+    "itinerary": "行程安排",
+    "perPerson": "/人",
+    "hours": "小時",
+    "bookNow": "預訂此行程"
+  },
+  "gallery": {
+    "title": "相冊",
+    "all": "全部",
+    "vessel": "船隻",
+    "fishing": "釣魚",
+    "diving": "潛水",
+    "nature": "自然",
+    "happyMoments": "歡樂時光",
+    "viewMore": "查看更多"
+  },
+  "news": {
+    "title": "新聞動態",
+    "readMore": "閱讀更多",
+    "backToList": "返回新聞列表"
+  },
+  "about": {
+    "title": "關於我們",
+    "ourStory": "我們的故事",
+    "ourTeam": "我們的團隊",
+    "whyChooseUs": "為什麼選擇我們"
+  },
+  "contact": {
+    "title": "聯絡我們",
+    "name": "姓名",
+    "email": "郵箱",
+    "phone": "電話",
+    "subject": "主題",
+    "message": "留言",
+    "send": "發送消息",
+    "successMessage": "謝謝！我們會盡快回覆您。",
+    "errorMessage": "出了點問題，請重試。"
+  },
+  "faq": {
+    "title": "常見問題"
+  },
+  "footer": {
+    "tagline": "捕捉刺激，探索深海 – 麒麟號帶您開啟冒險之旅！",
+    "quickLinks": "快速連結",
+    "contactInfo": "聯絡方式",
+    "followUs": "關注我們",
+    "address": "Margate Marina, 40 Marina Dr, Barretta TAS 7054",
+    "phone": "+61 498 855 910 Arnold",
+    "email": "support [at] tasyachttrip.com.au",
+    "whatsapp": "WhatsApp: +61 498 855 910 Arnold",
+    "copyright": "© 2026 Diver's Fishing Charters Hobart. 保留所有權利。"
+  },
+  "seo": {
+    "defaultTitle": "霍巴特釣魚潛水船務 | 塔斯馬尼亞專業船旅",
+    "defaultDescription": "體驗塔斯馬尼亞霍巴特迷人的海岸線——專業釣魚船和觀光船旅。在舒適的船上享受釣魚、潛水和燒烤樂趣。",
+    "homeDescription": "探索霍巴特的風采——在欣賞美景的同時享受釣魚、潛水和燒烤的樂趣。新手也適用！",
+    "productsDescription": "選擇霍巴特、塔斯馬尼亞的各種釣魚船和觀光行程。3小時巡遊、半日冒險和私人包船選項。",
+    "aboutDescription": "了解 Diver's Fishing Charters Hobart——自2015年以來的家族企業。塔斯馬尼亞持證合規的船旅運營商。",
+    "galleryDescription": "瀏覽我們在塔斯馬尼亞霍巴特的釣魚船和船旅照片。查看船隻、野生動物和歡樂時刻。",
+    "newsDescription": "來自 Diver's Fishing Charters Hobart 的最新資訊。釣魚技巧、行程更新和塔斯馬尼亞旅行指南。",
+    "contactDescription": "聯絡 Diver's Fishing Charters Hobart。查詢預訂、查詢和特殊要求。",
+    "faqDescription": "查找關於霍巴特、塔斯馬尼亞釣魚船和船旅的常見問題答案。"
+  },
+  "jsonLd": {
+    "travelAgency": {
+      "name": "霍巴特潛水釣魚船務",
+      "description": "塔斯馬尼亞專業釣魚船和觀光船旅"
+    }
+  },
+  "common": {
+    "loading": "加載中...",
+    "error": "發生錯誤",
+    "required": "必填",
+    "submit": "提交",
+    "cancel": "取消"
+  }
+}

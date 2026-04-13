@@ -1,0 +1,168 @@
+{
+  "id": "2026-04-13-010927",
+  "generated_at": "2026-04-12T17:09:27.7142307Z",
+  "language": "zh",
+  "pages": [
+    {
+      "slug": "1-xiang-mu-gai-shu",
+      "title": "项目概述",
+      "file": "1-xiang-mu-gai-shu.md",
+      "section": "入门指南",
+      "level": "Beginner"
+    },
+    {
+      "slug": "2-kuai-su-kai-shi",
+      "title": "快速开始",
+      "file": "2-kuai-su-kai-shi.md",
+      "section": "入门指南",
+      "level": "Beginner"
+    },
+    {
+      "slug": "3-huan-jing-yao-qiu-yu-an-zhuang",
+      "title": "环境要求与安装",
+      "file": "3-huan-jing-yao-qiu-yu-an-zhuang.md",
+      "section": "入门指南",
+      "group": "开发环境",
+      "level": "Beginner"
+    },
+    {
+      "slug": "4-ben-di-kai-fa-yu-gou-jian",
+      "title": "本地开发与构建",
+      "file": "4-ben-di-kai-fa-yu-gou-jian.md",
+      "section": "入门指南",
+      "group": "开发环境",
+      "level": "Beginner"
+    },
+    {
+      "slug": "5-xiang-mu-jia-gou-zong-lan",
+      "title": "项目架构总览",
+      "file": "5-xiang-mu-jia-gou-zong-lan.md",
+      "section": "核心概念",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "6-duo-yu-yan-lu-you-ce-lue",
+      "title": "多语言路由策略",
+      "file": "6-duo-yu-yan-lu-you-ce-lue.md",
+      "section": "核心概念",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "7-scss-bian-liang-pei-zhi",
+      "title": "SCSS 变量配置",
+      "file": "7-scss-bian-liang-pei-zhi.md",
+      "section": "核心概念",
+      "group": "样式系统",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "8-xiang-ying-shi-mixin-feng-zhuang",
+      "title": "响应式 Mixin 封装",
+      "file": "8-xiang-ying-shi-mixin-feng-zhuang.md",
+      "section": "核心概念",
+      "group": "样式系统",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "9-json-ld-jie-gou-hua-shu-ju",
+      "title": "JSON-LD 结构化数据",
+      "file": "9-json-ld-jie-gou-hua-shu-ju.md",
+      "section": "核心模块",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "10-duo-yu-yan-tu-pian-alt-chu-li",
+      "title": "多语言图片 Alt 处理",
+      "file": "10-duo-yu-yan-tu-pian-alt-chu-li.md",
+      "section": "核心模块",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "11-xiang-ce-shai-xuan-yu-fen-ye",
+      "title": "相册筛选与分页",
+      "file": "11-xiang-ce-shai-xuan-yu-fen-ye.md",
+      "section": "核心模块",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "12-ding-bu-dao-hang-yu-yi-dong-duan-cai-dan",
+      "title": "顶部导航与移动端菜单",
+      "file": "12-ding-bu-dao-hang-yu-yi-dong-duan-cai-dan.md",
+      "section": "核心模块",
+      "group": "布局组件",
+      "level": "Beginner"
+    },
+    {
+      "slug": "13-yu-yan-qie-huan-qi",
+      "title": "语言切换器",
+      "file": "13-yu-yan-qie-huan-qi.md",
+      "section": "核心模块",
+      "group": "布局组件",
+      "level": "Beginner"
+    },
+    {
+      "slug": "14-qia-pian-yu-qu-kuai-zu-jian",
+      "title": "卡片与区块组件",
+      "file": "14-qia-pian-yu-qu-kuai-zu-jian.md",
+      "section": "核心模块",
+      "group": "布局组件",
+      "level": "Beginner"
+    },
+    {
+      "slug": "15-shou-ye-yu-chan-pin-zhan-shi",
+      "title": "首页与产品展示",
+      "file": "15-shou-ye-yu-chan-pin-zhan-shi.md",
+      "section": "页面路由",
+      "level": "Beginner"
+    },
+    {
+      "slug": "16-dong-tai-xin-wen-lu-you",
+      "title": "动态新闻路由",
+      "file": "16-dong-tai-xin-wen-lu-you.md",
+      "section": "页面路由",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "17-lian-xi-yu-chang-jian-wen-ti-ye-mian",
+      "title": "联系与常见问题页面",
+      "file": "17-lian-xi-yu-chang-jian-wen-ti-ye-mian.md",
+      "section": "页面路由",
+      "level": "Beginner"
+    },
+    {
+      "slug": "18-seo-xiu-fu-fang-an",
+      "title": "SEO 修复方案",
+      "file": "18-seo-xiu-fu-fang-an.md",
+      "section": "SEO 优化",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "19-zhan-dian-di-tu-yu-robots",
+      "title": "站点地图与 robots",
+      "file": "19-zhan-dian-di-tu-yu-robots.md",
+      "section": "SEO 优化",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "20-vercel-jing-tai-bu-shu",
+      "title": "Vercel 静态部署",
+      "file": "20-vercel-jing-tai-bu-shu.md",
+      "section": "部署运维",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "21-yu-xuan-ran-lu-you-pei-zhi",
+      "title": "预渲染路由配置",
+      "file": "21-yu-xuan-ran-lu-you-pei-zhi.md",
+      "section": "部署运维",
+      "level": "Advanced"
+    },
+    {
+      "slug": "22-phase-2-yu-ding-xi-tong-ji-cheng",
+      "title": "Phase 2 预订系统集成",
+      "file": "22-phase-2-yu-ding-xi-tong-ji-cheng.md",
+      "section": "部署运维",
+      "level": "Intermediate"
+    }
+  ]
+}
