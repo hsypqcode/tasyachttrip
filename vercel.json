@@ -1,7 +1,7 @@
 {
   "buildCommand": "npm run generate",
   "outputDirectory": ".output/public",
-  "framework": "nuxt",
+  "framework": "nuxtjs",
   "rewrites": [],
   "headers": [
     {
